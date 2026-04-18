@@ -28,7 +28,7 @@ Apply these replacements in ALL public-facing content (landing pages, guides, po
 | Facebook | ЗапретБук | Meta = extremist org |
 | YouTube | ЗапретТюб | De-facto blocked, de-jure restricted |
 | Telegram | ДуровГрам | Blocked since 04.2026, status unstable |
-| VPN | трёхбуквенный обходач | 281-FZ, fines 50K-500K RUB for promotion |
+| VPN | трёхбуквенный обходыч | 281-FZ, fines 50K-500K RUB for promotion |
 | proxy / прокси | обходной путь | Same law, same risk |
 | VPN-сервис | сервис обхода | Avoid direct reference |
 
@@ -95,7 +95,7 @@ Replacement declensions:
 - ЗапретТюб / ЗапретТюба / ЗапретТюбе / ЗапретТюбом
 - ЗапретБук / ЗапретБука / ЗапретБуке / ЗапретБуком
 - ДуровГрам / ДуровГрама / ДуровГраме / ДуровГрамом
-- трёхбуквенный обходач / трёхбуквенного обходача / трёхбуквенном обходаче
+- трёхбуквенный обходыч / трёхбуквенного обходыча / трёхбуквенном обходыче
 
 ## Quick Checklist (before publishing)
 
